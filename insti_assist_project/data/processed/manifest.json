@@ -1,0 +1,30 @@
+{
+  "Handbook_HSS.txt": {
+    "original_file": "Handbook_HSS.txt",
+    "source_url": "Local upload (IITB HSS Department Fresher's Handbook)"
+  },
+  "Hostel10_Rules.txt": {
+    "original_file": "Hostel10_Rules.pdf",
+    "source_url": "https://gymkhana.iitb.ac.in/~hostel10/documents/Hostel10_Rules.pdf"
+  },
+  "Infrastructure_Details.txt": {
+    "original_file": "Infrastructure_Details.pdf",
+    "source_url": "https://notopedia-uploads.s3.us-east-2.amazonaws.com/college_brochure/IIT%20Bombay/Infrastructure%20Details.pdf"
+  },
+  "Menu-week1.txt": {
+    "original_file": "Menu-week1.pdf",
+    "source_url": "https://gymkhana.iitb.ac.in/~hostel16/messMenus/Menu-week1.pdf"
+  },
+  "campusCodeOfConduct.txt": {
+    "original_file": "campusCodeOfConduct.pdf",
+    "source_url": "https://gymkhana.iitb.ac.in/students/docs/campusCodeOfConduct.pdf"
+  },
+  "housing.txt": {
+    "original_file": "housing.pdf",
+    "source_url": "https://gymkhana.iitb.ac.in/students/housing.html"
+  },
+  "mess.txt": {
+    "original_file": "mess.pdf",
+    "source_url": "https://gymkhana.iitb.ac.in/~hostel10/mess.html"
+  }
+}
